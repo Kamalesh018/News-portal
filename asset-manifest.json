@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kamalesh018/News-portal.git/static/css/main.5c5d67d3.css",
+    "main.js": "/Kamalesh018/News-portal.git/static/js/main.810e7ce2.js",
+    "index.html": "/Kamalesh018/News-portal.git/index.html",
+    "main.5c5d67d3.css.map": "/Kamalesh018/News-portal.git/static/css/main.5c5d67d3.css.map",
+    "main.810e7ce2.js.map": "/Kamalesh018/News-portal.git/static/js/main.810e7ce2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c5d67d3.css",
+    "static/js/main.810e7ce2.js"
+  ]
+}
