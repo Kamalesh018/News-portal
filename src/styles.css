@@ -1,0 +1,65 @@
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.category-filter {
+  margin-bottom: 20px;
+}
+
+.category-filter button {
+  margin-right: 10px;
+  padding: 10px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+.category-filter button.active {
+  background-color: #0056b3;
+}
+
+.article-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.article {
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.article img {
+  max-width: 100%;
+  height: auto;
+}
+
+.pagination {
+  margin-top: 20px;
+}
+
+.pagination button {
+  margin-right: 5px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  background-color: #f8f9fa;
+  cursor: pointer;
+}
+
+.pagination button.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.article-detail {
+  padding: 20px;
+}
+
+.article-detail img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
